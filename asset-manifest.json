@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eisuke123.github.io/csb-9tj02k/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://eisuke123.github.io/csb-9tj02k/static/js/main.aa08a9d4.chunk.js",
+    "main.js.map": "https://eisuke123.github.io/csb-9tj02k/static/js/main.aa08a9d4.chunk.js.map",
+    "runtime-main.js": "https://eisuke123.github.io/csb-9tj02k/static/js/runtime-main.5f452f0f.js",
+    "runtime-main.js.map": "https://eisuke123.github.io/csb-9tj02k/static/js/runtime-main.5f452f0f.js.map",
+    "static/js/2.8b31b90d.chunk.js": "https://eisuke123.github.io/csb-9tj02k/static/js/2.8b31b90d.chunk.js",
+    "static/js/2.8b31b90d.chunk.js.map": "https://eisuke123.github.io/csb-9tj02k/static/js/2.8b31b90d.chunk.js.map",
+    "index.html": "https://eisuke123.github.io/csb-9tj02k/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://eisuke123.github.io/csb-9tj02k/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8b31b90d.chunk.js.LICENSE.txt": "https://eisuke123.github.io/csb-9tj02k/static/js/2.8b31b90d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f452f0f.js",
+    "static/js/2.8b31b90d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.aa08a9d4.chunk.js"
+  ]
+}
